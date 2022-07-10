@@ -1,0 +1,17 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Interfaz</title>
+  </head>
+  <body>
+    <p>El interfaz de usuario de MoveTo se compone de las siguientes partes:</p>
+    <ol>
+      <li><a href="menuprincipal.html">Menú Principal</a></li>
+      <li>Rutas de carpeta origen y destino</li>
+      <li>Botones de selección de carpetas</li>
+      <li>Botón de Mover</li>
+    </ol>
+    <div style="text-align: center;"><img src="../images/moveto_window.png" alt=""></div>
+  </body>
+</html>

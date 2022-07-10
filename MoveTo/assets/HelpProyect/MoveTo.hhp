@@ -1,0 +1,31 @@
+
+[INFOTYPES]
+
+[OPTIONS]
+Auto Index=No
+Binary Index=Yes
+Binary TOC=No
+Compatibility=1.1 or later
+Compiled File=MoveTo.chm
+Contents File=MoveTo.hhc
+Index File=MoveTo.hhk
+Error log file=MoveTo.log.txt
+Full-text search=Yes
+Language=0x40a Spanish (Traditional Sort)
+Title=Ayuda MoveTo
+Default Topic=html\index.html
+Default Window=
+Default Font=Open Sans, 9, 000
+Create CHI file=No
+Full text search stop list file=
+Display compile notes=Yes
+Display compile progress=Yes
+
+[FILES]
+html\index.html
+html\Que_es_MoveTo.html
+html\Requisitos.html
+html\eula.html
+html\Copyright.html
+html\Interfaz_de_usuario\Interfaz.html
+html\Interfaz_de_usuario\menuprincipal.html

@@ -1,0 +1,26 @@
+Microsoft HTML Help Compiler 4.74.8702
+
+Compiling c:\Users\franm\source\repos\MoveTo\MoveTo\assets\HelpProyect\MoveTo.chm
+
+html\index.html
+html\Que_es_MoveTo.html
+html\Requisitos.html
+html\eula.html
+html\Copyright.html
+html\Interfaz_de_usuario\Interfaz.html
+html\Interfaz_de_usuario\menuprincipal.html
+html\images\van.png
+html\images\moveto_window.png
+html\images\m_abrir.png
+html\images\m_conf.png
+html\images\mt_context.png
+
+Compile time: 0 minutes, 2 seconds
+7	Topics
+20	Local links
+0	Internet links
+5	Graphics
+
+
+Created c:\Users\franm\source\repos\MoveTo\MoveTo\assets\HelpProyect\MoveTo.chm, 62,752 bytes
+Compression increased file by 1,506 bytes.

@@ -1,0 +1,60 @@
+MoveTo
+http://www.neoofcomstudios.com
+https://neoofcomstudios.com/politica-de-privacidad/
+Desarrollado por NeoofCom Studios. - Francisco Medina GarcÌa
+Derechos de autor (c) 2022
+
+Acuerdo de licencia:
+
+A. CLUF DE MOVETO
+
+Por la presente se otorga permiso, sin costo alguno, a cualquier persona, denominada en adelante "usuario final", para obtener una copia de este programa de computadora y todos los archivos incluidos en conjunto denominados en adelante simplemente "Software"; comercializar el Software, incluidos los derechos de uso, copiar, publicar y/o distribuir copias del mismo, y permitir que las personas a las que se les proporcione el Software lo hagan, sujeto a las siguientes condiciones:
+
+El Software y todos los archivos incluidos con el instalador deben distribuirse sin modificaciones. El aviso de derechos de autor anterior y este aviso de permiso se incluir·n en todas las copias del Software. No debe clonar, alquilar, arrendar, vender, modificar, descompilar, desensamblar o aplicar ingenierÌa inversa al Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", CON LA ESPERANZA DE QUE RESULTE ⁄TIL PARA EL USUARIO FINAL, SIN GARANTÕçA DE NING⁄N TIPO, EXPLÕçCITA O IMPLÕçCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÕçAS DE COMERCIABILIDAD, IDONEIDAD PARA UN FIN DETERMINADO Y NO VIOLACI”N. EN NING⁄N CASO LOS AUTORES O LOS TITULARES DE LOS DERECHOS DE AUTOR SERÕÅN RESPONSABLES DE CUALQUIER RECLAMACI”N, DA—OS U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCI”N DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, FUERA DE O EN RELACI”N CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL SOFTWARE.
+
+ESTE SOFTWARE SE DISTRIBUYE LIBRE Y LIMPIO DE CUALQUIER TIPO DE SOFTWARE DA—INO/NO DESEADO.
+
+ESTE SOFTWARE NO RECOPILA NI SOLICITA NING⁄N TIPO DE INFORMACI”N PERSONAL.
+
+Esta licencia restringe el uso de este Software ˙nicamente a fines personales, privados y educativos sin fines de lucro.
+
+El usuario final es legalmente responsable del buen uso del Software. El usuario final acuerda y se compromete a utilizar este Software ˙nicamente para acceder a los contenidos para los que tenga autorizaciÚn y utilizando una computadora o conexiÚn a Internet de la que tenga plena autorizaciÚn para visualizar, transferir, descargar o acceder a tal tipo de contenido, en cumplimiento de las leyes locales de su paÌs.
+
+El usuario final acepta mantener legalmente libres de daÒos por el mal uso de esta herramienta de software a los autores, desarrolladores, propietarios, empleados y socios de MoveTo.
+
+MoveTo no recopila ninguna informaciÚn personal o rastreable del usuario final
+
+ADVERTENCIA:
+
+Queda terminantemente prohibido modificar el Software o cualquier componente incluido de cualquier forma para alterar el funcionamiento normal y para el cual fue diseÒado este Software.
+
+Est· estrictamente prohibido modificar el paquete de instalaciÚn o incrustar cualquier tipo de cÚdigo ejecutable, que pueda ejecutarse directa o indirectamente sin el permiso explÌcito por escrito del autor.
+
+El sitio web designado como oficial para este Software y donde el usuario final puede/debe descargar siempre la ˙ltima versiÚn y futuras actualizaciones es:
+
+http://www.neoofcomstudios.com
+
+Si est· redistribuyendo MoveTo, debe incluir un enlace al sitio web oficial, para que el usuario siempre tenga la posibilidad de descargar la ˙ltima versiÚn o las actualizaciones de seguridad.
+
+El uso de este software implica la aceptaciÚn de este acuerdo celebrado entre el USUARIO FINAL y el DESARROLLADOR/AUTOR DEL SOFTWARE. Por lo tanto, el mal uso del software, el uso abusivo, con malicia contra otros o la explotaciÚn de cualquier cosa no contemplada en este acuerdo que resulte en perjuicio o daÒo contra el autor ser· motivo suficiente para la revocaciÚn inmediata de esta licencia de uso y la terminaciÚn de este acuerdo.
+
+Puedes leer nuestras polÌticas de privacidad aquÌ:
+https://neoofcomstudios.com/politica-de-privacidad/
+
+***Tenga en cuenta que MoveTo solicita privilegios de administrador elevados.
+
+B. Instrucciones de desinstalaciÚn
+
+Para desinstalar completamente MoveTo, debe seguir estos pasos:
+
+1. Abra el Panel de control en el men˙ Inicio
+2. Abra el subprograma "Programas y caracterÌsticas"
+3. Seleccione "MoveTo"
+4. Haga clic en "Desinstalar o cambiar"
+5. Siga las instrucciones para completar la desinstalaciÚn
+
+Si tiene alguna consulta, comunÌquese con nosotros en la secciÚn de contacto de nuestro sitio web (http://www.neoofcomstudios.com)
+
+--
