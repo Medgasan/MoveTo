@@ -1,5 +1,6 @@
 ﻿using Microsoft.VisualBasic.FileIO;
 using MoveTo.Utils;
+using System;
 using System.IO;
 using System.Windows.Forms;
 
@@ -118,7 +119,7 @@ namespace MoveTo
             }
             txtDestino.Enabled = false;
             txtOrigen.Enabled = false;
-            FileSystem.MoveDirectory(txtOrigen.Text, txtDestino.Text, UIOption.AllDialogs);
+            FileSystem.MoveDirectory(txtOrigen.Text, txtDestino.Text, UIOption.AllDialogs,UICancelOption.DoNothing);
 
             //TODO: Revisar si esta parte del código funciona bien
             if (Directory.Exists(txtOrigen.Text))
@@ -126,7 +127,7 @@ namespace MoveTo
                 DialogResult dr = MessageBox.Show("no se ha podido mover todo el directorio \n ¿Deseas deshacer?", "MoveTo...", MessageBoxButtons.OKCancel);
                 if (dr == DialogResult.OK)
                 {
-                    FileSystem.MoveDirectory(txtDestino.Text, txtOrigen.Text, UIOption.AllDialogs);
+                    UndoMove(txtDestino.Text, txtOrigen.Text);
                 }
                 txtDestino.Enabled = true;
                 txtOrigen.Enabled = true;
@@ -134,7 +135,18 @@ namespace MoveTo
             }
             if ((bool)Helper.config[Helper.SOFTLINK])
             {
-                Helper.CreateSymbolicLink(txtOrigen.Text, txtDestino.Text, Helper.SymbolicLink.Directory);
+                try
+                {
+                    Helper.CreateSymbolicLink(txtOrigen.Text, txtDestino.Text, Helper.SymbolicLink.Directory);
+                }
+                catch (Exception e)
+                {
+                    DialogResult dr = MessageBox.Show("No se ha podido crear el enlace simbólido \n ¿Deseas deshacer?", "MoveTo...", MessageBoxButtons.OKCancel);
+                    if (dr == DialogResult.OK)
+                    {
+                        UndoMove(txtDestino.Text, txtOrigen.Text);
+                    }
+                }
             }
             txtDestino.Enabled = true;
             txtOrigen.Enabled = true;
@@ -144,6 +156,11 @@ namespace MoveTo
         {
             Helper.config[Helper.ADDNAME] = @checked;
             Helper.SaveConfig();
+        }
+
+        public void UndoMove(string origen, string destino)
+        {
+            FileSystem.MoveDirectory(destino, origen, UIOption.AllDialogs,UICancelOption.DoNothing);
         }
     }
 }
